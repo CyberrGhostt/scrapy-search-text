@@ -2,10 +2,10 @@ import pyodbc
 
 
 sql_credentials = {
-    "server": 'cloudim.database.windows.net',
+    "server": 'yoursever.database.windows.net',
     "database": 'DB',
-    "username": 'adminuser',
-    "password": 'Password1$',
+    "username": 'youruser',
+    "password": 'yourpassword$',
     "driver": '{ODBC Driver 17 for SQL Server}'
 }
 
